@@ -1,8 +1,8 @@
 CREATE DATABASE adatbazis
 CHARACTER SET "utf8"
-COLLATE "utf8_hungarian_ci"
+COLLATE "utf8_hungarian_ci";
 
-USE adatbazis
+USE adatbazis;
 
 CREATE TABLE meals (
     id INT AUTO_INCREMENT PRIMARY KEY,
